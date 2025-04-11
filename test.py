@@ -1,0 +1,1 @@
+print("SNIP47R")
